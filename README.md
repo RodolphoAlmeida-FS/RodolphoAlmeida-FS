@@ -14,7 +14,7 @@
       <img src="https://raw.githubusercontent.com/RodolphoAlmeida-FS/RodolphoAlmeida-FS/snake-output/snake.svg" alt="Snake animation" />
     </td>
     <td width="35%" align="center">
-      <img src="https://tm.ibxk.com.br/2023/03/14/14153713584269.jpg?ims=1200x675" alt="Michael Scott Meme" style="border-radius: 8px;" />
+      <img src="meme.png" alt="Michael Scott Meme" style="border-radius: 8px;" />
     </td>
   </tr>
 </table>
